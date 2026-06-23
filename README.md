@@ -1,13 +1,13 @@
 # Hera: Crafted by Women, for Women
 
-[![Hugging Face Spaces](https://huggingface.co/spaces/D3-Capstone/Hera)
+[[Hugging Face Spaces](https://huggingface.co/spaces/D3-Capstone/Hera)
 
 **Hera** is an AI-powered conversational agent designed specifically to empower and assist women in their professional and personal development journeys. 
 Built as a capstone project, Hera blends AI with a user-centric interface.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Daily Motivation Quotes:** Delivers empowering quotes focused on motivation to help users get started with their journey.
 - **Context-Aware Chatbot Interface:** Interactive chat system made to support and assist users with finding opportunities.
@@ -16,7 +16,7 @@ Built as a capstone project, Hera blends AI with a user-centric interface.
 
 ---
 
-## 🛠️ Technical Architecture & Tech Stack
+## Technical Architecture & Tech Stack
 
 - **Frontend Interface:** Built using Gradio to deliver a clean and highly responsive user experience.
 - **Core AI Engine:** Powered by Llama-3 to handle natural language understanding and generation.
