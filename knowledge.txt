@@ -1,0 +1,149 @@
+KNOWLEDGE BASE
+SECTION: WOMEN'S EMPOWERMENT, INTERNSHIPS, STEM, ARTS, HEALTHCARE, POLICY, AND GLOBAL OPPORTUNITIES
+RESOURCE_NAME: Girls Who Code
+LINK: https://girlswhocode.com/
+RESOURCE_NAME: Volunteer HQ Women's Empowerment Projects
+LINK: https://www.volunteerhq.org/volunteer-abroad-projects/womens-empowerment/
+RESOURCE_NAME: Go Overseas Women's Rights Volunteer Opportunities
+LINK: https://www.gooverseas.com/volunteer-abroad/womens-rights
+RESOURCE_NAME: GoAbroad Internships for Women Abroad
+LINK: https://www.goabroad.com/articles/intern-abroad/internships-for-women-abroad
+OPPORTUNITY_NAME: Work in Communications & Public Relations for a Non Profit in Barcelona
+RESOURCE_NAME: Rosetta Institute of Biomedical Sciences
+OPPORTUNITY_NAME: Intern in Holistic Wellness & Exercise Science in Sydney
+DETAILS: At this wellness centre, led by a female clinical psychologist, the highest intention is to help clients achieve health and lifelong wellness using Chiropractic, Wellness Psychology, Life Coaching, and Integrative Medicine. Interns learn how a wellness business operates and how to apply themselves in a clinical setting.
+OPPORTUNITY_NAME: Government & Policy Placement with a Female Politician in Dublin
+DETAILS: Opportunity to work with a current political figure in Dublin and gain first-hand government and political knowledge. The politician previously managed her own business before serving in Irish Parliament and on several committees. Candidates may research and write legal reports and letters, engage in door-to-door canvassing, and learn directly from the source. Identified as a strong women's rights internship opportunity.
+OPPORTUNITY_NAME: Interior Design Studio Internship in London
+DETAILS: London-based design studio operating for more than 25 years with a woman leading the organization. The team oversees day-to-day project management. The studio has expertise across interior design projects. Students may contribute to design, architecture, studio tasks, and project management.
+OPPORTUNITY_NAME: Historical Research with an NGO in Washington, D.C.
+DETAILS: Documentary editing project focused on the lives of strong women. Work includes collection, accession, transcription, annotation, document organization, web development, and general office work. The project serves students, teachers, scholars, and policy makers.
+RESOURCE_NAME: Pathways to Science Opportunities for Women
+LINK: https://www.pathwaystoscience.org/women.aspx?sort=all
+RESOURCE_NAME: GoAbroad High School Study Abroad Programs
+LINK: https://www.goabroad.com/articles/highschool-study-abroad/best-travel-abroad-programs-for-high-school-students
+RESOURCE_NAME: Conference2Go Engineering and Technology Conferences
+LINK: https://www.conference2go.com/engineering-and-technology/
+RESOURCE_NAME: Go Overseas Healthcare Internships Abroad
+LINK: https://www.gooverseas.com/internships-abroad/healthcare
+RESOURCE_NAME: Medical Aid
+LINK: https://medicalaid.org/
+RESOURCE_NAME: Carnegie Hall Education Workshops
+LINK: https://www.carnegiehall.org/Education/Programs/Workshops
+RESOURCE_NAME: Interlochen Music Summer Camps
+LINK: https://www.interlochen.org/stories/top-10-best-music-summer-camps-in-us
+RESOURCE_NAME: RoboLabs Foundation Camps
+LINK: https://www.robolabsfoundation.org/camps
+RESOURCE_NAME: United Nations Youth Opportunities
+LINK: https://social.desa.un.org/issues/youth/opportunities-within-the-un-for-youth
+RESOURCE_NAME: UNA-USA Student Programs
+LINK: https://unausa.org/programs/students/
+RESOURCE_NAME: WFUNA Training Programs at the UN
+LINK: https://wfuna.org/program/training-programs-at-the-un/
+RESOURCE_NAME: International Organization Careers Student Programs (JPO)
+LINK: https://iocareers.state.gov/Content/Public/students-jpo
+RESOURCE_NAME: Women for STEM India
+LINK: https://womenforstemindia.org.in/
+RESOURCE_NAME: India Science and Technology Opportunities for Women in STEMM
+LINK: https://www.indiascienceandtechnology.gov.in/listingpage/opportunities-women-stemm
+SECTION: CODING, DESIGN, LEARNING, AND SKILL DEVELOPMENT
+RESOURCE_NAME: Kode With Klossy
+LINK: https://www.kodewithklossy.com/
+RESOURCE_NAME: Google Labs
+LINK: https://labs.google/
+RESOURCE_NAME: freeCodeCamp
+LINK: https://www.freecodecamp.org/
+RESOURCE_NAME: Codecademy
+LINK: https://www.codecademy.com/learn
+RESOURCE_NAME: Exercism
+LINK: https://exercism.org/dashboard
+RESOURCE_NAME: Scribble Canvas
+RESOURCE_NAME: W3Schools
+LINK: https://www.w3schools.com/
+RESOURCE_NAME: Canva Design School
+LINK: https://www.canva.com/design-school/explore/?hasCertification=true
+RESOURCE_NAME: Coursera
+LINK: https://www.coursera.org/
+RESOURCE_NAME: Google Career Certificates
+LINK: https://grow.google/certificates
+RESOURCE_NAME: HackerRank
+LINK: https://www.hackerrank.com/
+RESOURCE_NAME: Stack Overflow
+LINK: https://stackoverflow.com/questions
+RESOURCE_NAME: CodingBat Python
+LINK: https://codingbat.com/python
+RESOURCE_NAME: Project Euler
+LINK: https://projecteuler.net/
+RESOURCE_NAME: Codewars
+LINK: https://www.codewars.com/
+RESOURCE_NAME: Harvard CS50
+LINK: https://pll.harvard.edu/course/cs50-introduction-computer-science
+RESOURCE_NAME: MIT OpenCourseWare
+LINK: https://ocw.mit.edu/
+RESOURCE_NAME: edX
+LINK: https://www.edx.org/
+RESOURCE_NAME: Khan Academy
+LINK: https://www.khanacademy.org/
+RESOURCE_NAME: Figma Learn Design
+LINK: https://www.figma.com/community/design-tutorials/figma?resource_type=files
+SECTION: WOMEN IN TECH PROGRAMS, SCHOLARSHIPS, AND CAREER OPPORTUNITIES
+RESOURCE_NAME: Amazon WoW
+LINK: https://amazon.jobs/content/en/career-programs/university/women-of-the-world
+RESOURCE_NAME: Cisco Women Internship Program
+LINK: https://www.cisco.com/c/en_in/about/womeninternship.html
+RESOURCE_NAME: JP Morgan Winning Women Program
+LINK: https://www.jpmorganchase.com/careers/explore-opportunities/programs/winning-women-ba
+RESOURCE_NAME: EY Women in Tech Program
+LINK: https://www.ey.com/en_gl/women-technology-program
+RESOURCE_NAME: Code Like a Girl Internships
+LINK: https://www.codelikeagirl.com/internships/
+RESOURCE_NAME: Women Techmakers Scholars
+LINK: https://www.technovation.org/women-techmakers/
+RESOURCE_NAME: Adobe India Women-in-Tech Scholarship
+LINK: https://www.womentech.net/how-to/adobe-research-women-in-technology-scholarship-3
+RESOURCE_NAME: Aysen Tunca Memorial Scholarship
+LINK: https://students.aip.org/aysen-tunca-memorial-scholarship
+RESOURCE_NAME: BHW Group Women in STEM Scholarship
+LINK: https://thebhwgroup.com/scholarship
+RESOURCE_NAME: SWE Undergraduate Scholarships
+LINK: https://swe.org/scholarships/
+RESOURCE_NAME: Amelia Earhart Fellowship
+LINK: https://www.zonta.org/Web/Web/Programs/Education/Amelia_Earhart_Fellowship.aspx
+RESOURCE_NAME: Lillian Moller Gilbreth Memorial Scholarship
+LINK: https://www.petersons.com/scholarship/lillian-moller-gilbreth-memorial-scholarship-111_187234.aspx
+RESOURCE_NAME: Goldman Sachs Women Engineers Program
+LINK: https://www.goldmansachs.com/careers/students/programs-and-internships/india/hackathon
+SECTION: COMPETITIONS, COMMUNITIES, ORGANIZATIONS, AND STUDENT PROGRAMS
+RESOURCE_NAME: Technovation Girls
+LINK: https://technovationchallenge.org/
+RESOURCE_NAME: NASA Space Apps Challenge
+LINK: https://www.spaceappschallenge.org/
+RESOURCE_NAME: Women Techmakers
+LINK: https://womentechmakersonair.withgoogle.com/
+RESOURCE_NAME: Women Who Code
+LINK: https://womenwhocode.com/
+RESOURCE_NAME: Society of Women Engineers
+LINK: https://swe.org/
+RESOURCE_NAME: Google Developer Student Clubs
+LINK: https://developers.google.com/community/
+RESOURCE_NAME: Microsoft Learn Student Ambassadors
+LINK: https://mvp.microsoft.com/studentambassadors
+RESOURCE_NAME: FIRST Robotics Competition
+LINK: https://www.firstinspires.org/programs/frc/
+RESOURCE_NAME: VEX Robotics Competition
+LINK: https://www.vexrobotics.com/competition
+RESOURCE_NAME: Conrad Challenge
+LINK: https://conradchallenge.awardsplatform.com/
+RESOURCE_NAME: Breakthrough Junior Challenge
+LINK: https://breakthroughjuniorchallenge.org/
+SECTION: ADDITIONAL GUIDANCE AND COMMUNITIES
+RESOURCE_NAME: Advice from People in the Field
+RESOURCE_NAME: Potential Pathways in Tech
+RESOURCE_NAME: High School and College-based Organizations
+RESOURCE_NAME: Instagram Community @gen.she
+RESOURCE_NAME: Instagram Community @techtogether_
+RESOURCE_NAME: Rewriting the Code
+RESOURCE_NAME: Society of Women Engineers
+RESOURCE_NAME: Break Through Tech
+RESOURCE_NAME: ColorStack
+RESOURCE_NAME: AISES
